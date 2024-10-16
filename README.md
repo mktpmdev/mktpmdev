@@ -1,7 +1,3 @@
-Berikut adalah versi profil GitHub MKTPM dengan fokus pada profil perusahaan tanpa menyebut harga, tetapi tetap dengan nada yang lucu dan menyenangkan:
-
----
-
 # 🎉 Welcome to MKTPM 🎉
 
 ### We Build Static Sites That Work for You (And Yes, They Look Amazing) 💻✨
